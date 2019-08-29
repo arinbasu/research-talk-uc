@@ -6,9 +6,7 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 
 ## Assume ...
-> Software is as important to modern scientific research as telescopes and test tubes. From groups that work exclusively on computational problems, to traditional laboratory and field scientists, more and more of the daily operation of science revolves around developing new algorithms, managing and analyzing the large amounts of data that are generated in single research projects, combining disparate datasets to assess synthetic problems, and other computational task
-
-(Greg Wilson, 2014)
+> Software is as important to modern scientific research as telescopes and test tubes. ... more and more of the daily operation of science revolves around developing new algorithms, managing and analyzing the large amounts of data that are generated in single research projects, combining disparate datasets to assess synthetic problems, and other computational task (Greg Wilson, 2014)
 
 ## What seems to happen
 - Iron triangle of "hardware", "algorithm", "programming" (Greg Wilson, 2014)
