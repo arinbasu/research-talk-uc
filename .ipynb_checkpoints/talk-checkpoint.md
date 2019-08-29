@@ -1,7 +1,9 @@
 
 ---
 title: How software and data carpentry can get everyone up to speed
+
 author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentries, @arinbasu
+
 ---
 
 
