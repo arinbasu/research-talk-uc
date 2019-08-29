@@ -43,7 +43,7 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ## Leads to ...
 
-> If the first line of your #rstats script is setwd("C:\Users\jenny\path\that\only\I\have"), I will come into your lab and SET YOUR COMPUTER ON FIRE.
+![jb](jbryan.png)
 
  (Mash-up of rage tweets by @jennybc and @tpoi)
  (Source: https://github.com/jennybc/here_here)
