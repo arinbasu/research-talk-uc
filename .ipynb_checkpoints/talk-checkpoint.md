@@ -35,7 +35,7 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## {data-background-image="picture12.jpg"}
+![phdcomics](picture12.jpg)
 (source: http://phdcomics.com/comics/archive.php?comicid=1531)
 
 ---
@@ -149,7 +149,7 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## {data-background-image="usage_change.png"}
+![Usage change](usage_change.png)
 
 
 ---
