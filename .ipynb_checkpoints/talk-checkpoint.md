@@ -1,18 +1,18 @@
 
 ---
-title: How software and data carpentry can get everyone up to speed
+title: Software and data carpentry can get researchers up to speed
 
-author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentries, @arinbasu
+author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentries,           University of Canterbury
 
 ---
 
 
-## Assume ...
+### Assume ...
 > Software is as important to modern scientific research as telescopes and test tubes. ... more and more of the daily operation of science revolves around developing new algorithms, managing and analyzing the large amounts of data that are generated in single research projects, combining disparate datasets to assess synthetic problems, and other computational task (Greg Wilson, 2014)
 
 ---
 
-## What seems to happen
+### What seems to happen
 - Iron triangle of "hardware", "algorithm", "programming" (Greg Wilson, 2014)
 - Iron quadrilateral? "Data", "Hardware", "Algorithm", "Programming"
 - Everything other than programming has increased in logarithmic scale
@@ -35,8 +35,7 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## But limited formal scope of training
-![gradschool](picture12.jpg)
+## {data-background-image="picture12.jpg"}
 (source: http://phdcomics.com/comics/archive.php?comicid=1531)
 
 ---
@@ -50,8 +49,8 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
  
  ---
 
-# Enter Software and Data Carpentry
-![Carpentries](carpentry.png)
+# {data-background-image="carpentry.png"}
+
 (Source: [The Carpentries](https://carpentries.org/))
 
 ---
@@ -150,8 +149,8 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## Change in the usage patterns
-![usage](usage_change.png)
+## {data-background-image="usage_change.png"}
+
 
 ---
 
