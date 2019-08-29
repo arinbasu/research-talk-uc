@@ -49,9 +49,9 @@ author: Arindam Basu, tweet me @arinbasu
  
  ---
 
-### {data-background-image="carpentry.png"}
+### Enter, The Carpentries
 
-(Source: [The Carpentries](https://carpentries.org/))
+![The Carpentries](carpentry.png)
 
 ---
 
@@ -133,7 +133,7 @@ author: Arindam Basu, tweet me @arinbasu
 
 ---
 
-## NZ Statistics (h/t @MurrayCadzow)
+### NZ Statistics (h/t @MurrayCadzow)
 ![NZ Carpentry](nz_carpentry.png)
 (Source: https://swcarpentry.slack.com/archives/CH9MDCTSM/p1566275255032400)
 
