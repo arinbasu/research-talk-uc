@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Arindam Basu, Co-chair, Instructor Development Committee, The Carpentries, @arinbasu">
+  <title>How software and data carpentry can get everyone up to speed</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js-master/css/reset.css">
+  <link rel="stylesheet" href="reveal.js-master/css/reveal.css">
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="reveal.js-master/css/theme/black.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js-master/css/print/pdf.css' : 'reveal.js-master/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js-master/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">How software and data carpentry can get everyone up to speed</h1>
+  <p class="author">Arindam Basu, Co-chair, Instructor Development Committee, The Carpentries, <span class="citation" data-cites="arinbasu">@arinbasu</span></p>
+</section>
+
+<section class="slide level1">
+
+<h2 id="assume">Assume …</h2>
+<blockquote>
+<p>Software is as important to modern scientific research as telescopes and test tubes. From groups that work exclusively on computational problems, to traditional laboratory and field scientists, more and more of the daily operation of science revolves around developing new algorithms, managing and analyzing the large amounts of data that are generated in single research projects, combining disparate datasets to assess synthetic problems, and other computational task</p>
+</blockquote>
+<p>(Greg Wilson, 2014)</p>
+<h2 id="what-seems-to-happen">What seems to happen</h2>
+<ul>
+<li>Iron triangle of “hardware”, “algorithm”, “programming” (Greg Wilson, 2014)</li>
+<li>Iron quadrilateral? “Data”, “Hardware”, “Algorithm”, “Programming”</li>
+<li>Everything other than programming has increased in logarithmic scale</li>
+</ul>
+<h2 id="greg-wilson-2014">Greg Wilson (2014)</h2>
+<blockquote>
+<p>A million-fold speed-up is impressive, but hardware and algorithms are only two sides of the iron triangle of programming. <strong>The third is programming itself, and while improvements to languages, tools, and practices have undoubtedly made software developers more productive since 1987, the speed-up is percentages rather than orders of magnitude</strong></p>
+</blockquote>
+<h2 id="tools-and-words-to-the-wise-example">Tools and words to the wise (example):</h2>
+<figure>
+<img data-src="usethis.png" alt="" /><figcaption>use this</figcaption>
+</figure>
+<h2 id="results-from-code-review-pilot-study-by-petre-and-wilson-2014">Results from Code review pilot study by Petre and Wilson, 2014</h2>
+<figure>
+<img data-src="code_review.png" alt="" /><figcaption>Code review</figcaption>
+</figure>
+<h2 id="but-limited-formal-scope-of-training">But limited formal scope of training</h2>
+<p><img data-src="picture12.jpg" alt="gradschool" /> (source: http://phdcomics.com/comics/archive.php?comicid=1531)</p>
+<h2 id="leads-to">Leads to …</h2>
+<blockquote>
+<p>If the first line of your #rstats script is setwd(“C:”), I will come into your lab and SET YOUR COMPUTER ON FIRE.</p>
+</blockquote>
+<p>(Mash-up of rage tweets by <span class="citation" data-cites="jennybc">@jennybc</span> and <span class="citation" data-cites="tpoi">@tpoi</span>) (Source: https://github.com/jennybc/here_here)</p>
+</section>
+<section id="enter-software-and-data-carpentry" class="slide level1">
+<h1>Enter Software and Data Carpentry</h1>
+<p><img data-src="carpentry.png" alt="Carpentries" /> (Source: <a href="https://carpentries.org/">The Carpentries</a>)</p>
+<h2 id="software-carpentry-history">Software carpentry history</h2>
+<ul>
+<li>Greg Wilson and Brent Gorda started in 1998</li>
+<li>Three phases, current phase started in 2012</li>
+<li>Network of communities connecting learners, instructors, trainers, lesson maintainers</li>
+</ul>
+<h2 id="history-and-growth">History and growth</h2>
+<figure>
+<img data-src="SWCDChistory.png" alt="" /><figcaption>growth</figcaption>
+</figure>
+<h2 id="the-carpentries-model">The Carpentries model</h2>
+<figure>
+<img data-src="ecosystem.png" alt="" /><figcaption>ecosystem</figcaption>
+</figure>
+<h2 id="carpentries-workshop">Carpentries Workshop</h2>
+<figure>
+<img data-src="carpentries_workshop.jpeg" alt="" /><figcaption>workshop</figcaption>
+</figure>
+<h2 id="top-features-of-softwaredata-carpentry-workshops">Top features of software/data carpentry workshops</h2>
+<ul>
+<li>Computational competence</li>
+<li>Show not tell: Live coding (Computer Science meets Fine Arts)</li>
+<li>Guided instruction</li>
+<li>Novice to competent practitioner/journeyman</li>
+</ul>
+<h2 id="what-goes-on-in-a-softwaredata-carpentry-workshop">What goes on in a software/data carpentry workshop</h2>
+<ul>
+<li>Day 1 am: Unix shell</li>
+<li>Day 1 pm: Programming in Python or R</li>
+<li>Day 2 am: Version control (git)</li>
+<li>Day 2 pm: SQL (sqlite)</li>
+</ul>
+<h2 id="what-goes-on-in-a-data-carpentry-workshop-r-for-example-ecology">What goes on in a data carpentry workshop (R for example, ecology)</h2>
+<ul>
+<li>Day 1 am: Spreadsheets and OpenRefine</li>
+<li>Day 1 pm: Programming in R</li>
+<li>Day 2 am: ggplot or plotting</li>
+<li>Day 2 pm: Sql and version control</li>
+</ul>
+<h2 id="lessons-for-data-and-software-carpentry">Lessons for data and software carpentry</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Data/Software</th>
+<th>Day</th>
+<th>Time</th>
+<th>Topic</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Software</td>
+<td>One</td>
+<td>AM</td>
+<td>The Unix shell</td>
+</tr>
+<tr class="even">
+<td>Data</td>
+<td>One</td>
+<td>AM</td>
+<td>OpenRefine/Spreadsheet</td>
+</tr>
+<tr class="odd">
+<td>Software, Data</td>
+<td>One</td>
+<td>PM</td>
+<td>R / Python</td>
+</tr>
+<tr class="even">
+<td>Software, Data</td>
+<td>Two</td>
+<td>AM</td>
+<td>Version control</td>
+</tr>
+<tr class="odd">
+<td>Software, Data</td>
+<td>Two</td>
+<td>PM</td>
+<td>SQL</td>
+</tr>
+</tbody>
+</table>
+<h2 id="steps-of-workshops">Steps of workshops</h2>
+<figure>
+<img data-src="workshop_plan.png" alt="" /><figcaption>workshop_plan</figcaption>
+</figure>
+<h2 id="lessons">Lessons</h2>
+<p><a href="https://datacarpentry.org/lessons/">Go to …</a></p>
+<h2 id="selection-of-topics">Selection of topics</h2>
+<ul>
+<li>Should be hands-on</li>
+<li>Develop using a template with objectives and tasks</li>
+<li>Emphasis on ‘show not tell’</li>
+<li>Should incorporate ‘live coding’</li>
+<li>Should include frequent formative assessments</li>
+<li>One formative assessment every 15 minutes (usually less frequent)</li>
+</ul>
+<h2 id="nz-statistics-ht-murraycadzow">NZ Statistics (h/t <span class="citation" data-cites="MurrayCadzow">@MurrayCadzow</span>)</h2>
+<p><img data-src="nz_carpentry.png" alt="NZ Carpentry" /> (Source: https://swcarpentry.slack.com/archives/CH9MDCTSM/p1566275255032400)</p>
+<h2 id="it-works">It works!</h2>
+<figure>
+<img data-src="impact.png" alt="" /><figcaption>impact</figcaption>
+</figure>
+<h2 id="more-impact">More impact</h2>
+<figure>
+<img data-src="impact_graphs.png" alt="" /><figcaption>more impact</figcaption>
+</figure>
+<h2 id="change-in-the-usage-patterns">Change in the usage patterns</h2>
+<figure>
+<img data-src="usage_change.png" alt="" /><figcaption>usage</figcaption>
+</figure>
+<h2 id="impact-on-research-productivity-long-term-survey-results">Impact on research productivity (long term survey results)</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">research_productivity</th>
+<th style="text-align: right;">n</th>
+<th style="text-align: right;">percent</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Agree</td>
+<td style="text-align: right;">153</td>
+<td style="text-align: right;">32.14</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Disagree</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">8.19</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Neutral</td>
+<td style="text-align: right;">138</td>
+<td style="text-align: right;">28.99</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Strongly agree</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;">12.18</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Strongly disagree</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">4.20</td>
+</tr>
+</tbody>
+</table>
+<h2 id="change-in-confidence-level">Change in confidence level</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">confidence_change</th>
+<th style="text-align: right;">n</th>
+<th style="text-align: right;">percent</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">I’m equally confident now.</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">19.54</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">I’m less confident now.</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">1.26</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">I’m more confident now.</td>
+<td style="text-align: right;">333</td>
+<td style="text-align: right;">69.96</td>
+</tr>
+</tbody>
+</table>
+<h2 id="get-involved-in-the-carpentries">Get Involved in The Carpentries</h2>
+<p><a href="https://carpentries.org/community/">Go to …</a></p>
+<h2 id="some-suggested-ways-for-individuals">Some suggested ways for individuals</h2>
+<ul>
+<li>Start as a learner</li>
+<li>Usually in groups</li>
+<li>Each learner helps each other</li>
+<li>Work in pairs rather than solo works better</li>
+<li>Learner -&gt; Helper -&gt; Instructor -&gt; Trainer</li>
+<li>Pull requests -&gt; Lesson developer -&gt; Maintainer</li>
+</ul>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js-master/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js-master/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js-master/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js-master/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
