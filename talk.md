@@ -2,7 +2,7 @@
 ---
 title: Software and data carpentry can get researchers up to speed
 
-author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentries,           University of Canterbury
+author: Arindam Basu, tweet me @arinbasu
 
 ---
 
@@ -19,17 +19,17 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## Greg Wilson (2014)
+### Greg Wilson (2014)
 > A million-fold speed-up is impressive, but hardware and algorithms are only two sides of the iron triangle of programming. **The   third is programming itself, and while improvements to languages,   tools, and practices have undoubtedly made software developers   more productive since 1987, the speed-up is percentages rather   than orders of magnitude**
 
 ---
 
-## Tools and words to the wise (example):
+### Tools and words to the wise (example):
 ![use this](usethis.png)
 
 ---
 
-## Results from Code review pilot study by Petre and Wilson, 2014
+### Petre and Wilson, 2014
 
 ![Code review](code_review.png)
 
@@ -40,7 +40,7 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## Leads to ...
+### Leads to ...
 
 ![jb](jbryan.png)
 
@@ -49,35 +49,35 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
  
  ---
 
-# {data-background-image="carpentry.png"}
+### {data-background-image="carpentry.png"}
 
 (Source: [The Carpentries](https://carpentries.org/))
 
 ---
 
-## Software carpentry history
+### Software carpentry history
 - Greg Wilson and Brent Gorda started in 1998
 - Three phases, current phase started in 2012
 - Network of communities connecting learners, instructors, trainers, lesson maintainers
 
 ---
 
-## History and growth
+### History and growth
 ![growth](SWCDChistory.png)
 
 ---
 
-## The Carpentries model
+### The Carpentries model
 ![ecosystem](ecosystem.png)
 
 ---
 
-## Carpentries Workshop
+### Carpentries Workshop
 ![workshop](carpentries_workshop.jpeg)
 
 ---
 
-## Top features of software/data carpentry workshops
+### Top features of software/data carpentry workshops
 - Computational competence
 - Show not tell: Live coding (Computer Science meets Fine Arts)
 - Guided instruction
@@ -85,7 +85,7 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## What goes on in a software/data carpentry workshop
+### What goes on in a software/data carpentry workshop
 - Day 1 am: Unix shell
 - Day 1 pm: Programming in Python or R
 - Day 2 am: Version control (git)
@@ -93,7 +93,7 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## What goes on in a data carpentry workshop (R for example, ecology)
+### What goes on in a data carpentry workshop (R for example, ecology)
 - Day 1 am: Spreadsheets and OpenRefine
 - Day 1 pm: Programming in R
 - Day 2 am: ggplot or plotting
@@ -101,7 +101,7 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## Lessons for data and software carpentry
+### Lessons for data and software carpentry
 
 | Data/Software | Day  | Time | Topic |
 |---------------|------|------|-------|
@@ -113,17 +113,17 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## Steps of workshops
+### Steps of workshops
 ![workshop_plan](workshop_plan.png)
 
 ---
 
-## Lessons
-[Go to ...](https://datacarpentry.org/lessons/)
+### Lessons
+[Go to lessons page](https://datacarpentry.org/lessons/)
 
 ---
 
-## Selection of topics
+### Selection of topics
 - Should be hands-on
 - Develop using a template with objectives and tasks
 - Emphasis on 'show not tell'
@@ -139,12 +139,12 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## It works!
+### It works!
 ![impact](impact.png)
 
 ---
 
-## More impact
+### More impact
 ![more impact](impact_graphs.png)
 
 ---
@@ -154,7 +154,7 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## Impact on research productivity (long term survey results)
+### Impact on research productivity (long term survey results)
 
 |research_productivity |   n| percent|
 |:---------------------|---:|-------:|
@@ -166,7 +166,7 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## Change in confidence level
+### Change in confidence level
 
 |confidence_change          |   n| percent|
 |:--------------------------|---:|-------:|
@@ -176,12 +176,12 @@ author: Arindam Basu, Co-chair, Instructor Development Committee, The Carpentrie
 
 ---
 
-## Get Involved in The Carpentries
- [Go to ...](https://carpentries.org/community/)
+### Get Involved in The Carpentries
+ [Go to Community page](https://carpentries.org/community/)
  
  ---
  
-## Some suggested ways for individuals 
+### Some suggested ways for individuals 
 - Start as a learner
 - Usually in groups 
 - Each learner helps each other
